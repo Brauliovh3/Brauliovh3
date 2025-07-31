@@ -100,12 +100,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=2000&color=FF00FF&center=true&vCenter=true&multiline=true&random=false&width=500&height=100&lines=%F0%9F%8E%AE+Intereses%3A+Explorar+nuevas+tecnolog%C3%ADas;%F0%9F%93%9A+Habilidad%3A+Aprendizaje+continuo;%F0%9F%92%A1+Misi%C3%B3n%3A+Resolver+problemas+complejos" alt="User Info" /></a>
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://img.shields.io/badge/CONTADOR%20DE%20VISITANTES-cyan?style=for-the-badge&labelColor=black" alt="Contador Título"/>
-  <br><br>
-  <img src="https://profile-counter.glitch.me/{Brauliovh3}/count.svg" />
-</div>
+
 
 <!-- Footer -->
 <p align="center">
