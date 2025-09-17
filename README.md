@@ -23,21 +23,10 @@
   <div align="center">
     <h3>📡 𝙲𝚘𝚗𝚗𝚎𝚌𝚝𝚒𝚘𝚗 𝙿𝚛𝚘𝚝𝚘𝚌𝚘𝚕</h3>
     
-    <a href="https://wa.me/TU_NUMERO_WHATSAPP">
+    <a href="https://wa.me/51988514570">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black" alt="WhatsApp"/>
     </a>
-    <a href="https://facebook.com/TU_PERFIL_FACEBOOK">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=black" alt="Facebook"/>
-    </a>
-    <a href="https://linkedin.com/in/TU_PERFIL_LINKEDIN">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn"/>
-    </a>
-    <a href="https://t.me/TU_USUARIO_TELEGRAM">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black" alt="Telegram"/>
-    </a>
-    <a href="mailto:tu.email@ejemplo.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" alt="Email"/>
-    </a>
+   
   </div>
 
   <br>
