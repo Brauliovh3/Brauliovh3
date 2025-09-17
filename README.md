@@ -72,7 +72,6 @@
   <summary>📋 <strong>Información de Contacto Detallada</strong></summary>
   <br>
   
-  ```yaml
   Contacto_Profesional:
     Email: "brauliovh3@gmail.com"
     LinkedIn: "linkedin.com/in/brauliovh3"
