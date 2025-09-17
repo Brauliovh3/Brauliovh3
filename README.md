@@ -44,50 +44,24 @@
   
   <!-- Redes Sociales con enlaces funcionales -->
   <p>
-    <a href="mailto:brauliovh3@gmail.com">
+    <a href="mailto:velasquezhuillcab@gmail.com">
       <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" alt="Email"/>
-    </a>
-    <a href="https://linkedin.com/in/brauliovh3">
-      <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn"/>
-    </a>
-    <a href="https://t.me/brauliovh3">
-      <img src="https://img.shields.io/badge/💬_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black" alt="Telegram"/>
     </a>
   </p>
   
   <p>
-    <a href="https://wa.me/51987654321">
+    <a href="https://wa.me/51988514570">
       <img src="https://img.shields.io/badge/📱_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black" alt="WhatsApp"/>
-    </a>
-    <a href="https://facebook.com/brauliovh3">
-      <img src="https://img.shields.io/badge/📘_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=black" alt="Facebook"/>
-    </a>
-    <a href="https://discord.com/users/brauliovh3">
-      <img src="https://img.shields.io/badge/🎮_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=black" alt="Discord"/>
-    </a>
+       </a>
   </p>
 
   <!-- Información de Contacto -->
   <details>
   <summary>📋 <strong>Información de Contacto Detallada</strong></summary>
-  <br>
-  
-  Contacto_Profesional:
-    Email: "brauliovh3@gmail.com"
-    LinkedIn: "linkedin.com/in/brauliovh3"
-    GitHub: "github.com/Brauliovh3"
-    Horario: "Lun-Vie 9:00-18:00 (UTC-5)"
-    Tiempo_Respuesta: "< 2 horas en horario laboral"
-    
-  Contacto_Inmediato:
-    WhatsApp: "+51 987 654 321"
-    Telegram: "@brauliovh3"
-    Discord: "brauliovh3#1234"
-    
-  Idiomas:
+    Idiomas:
     Español: "Nativo"
     Inglés: "Avanzado (B2-C1)"
-    Portugués: "Intermedio"
+ 
 </details> </div>
 🛠️ 𝙰𝚛𝚜𝚎𝚗𝚊𝚕 𝚃𝚎𝚌𝚗𝚘𝚕ó𝚐𝚒𝚌𝚘
 <div align="center"> <h3>🔧 Lenguajes de Programación</h3> <!-- Lenguajes con animaciones --> <p> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=black" alt="Java"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black" alt="Python"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black" alt="TypeScript"/> </p> <p> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=black" alt="C++"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=black" alt="C#"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=black" alt="PHP"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=black" alt="Bash"/> </p> </div>
