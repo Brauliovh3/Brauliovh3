@@ -125,8 +125,16 @@ Seguridad e Infraestructura:
 ## 📊 𝙰𝚗á𝚕𝚒𝚜𝚒𝚜 𝚍𝚎𝚕 𝚂𝚒𝚜𝚝𝚎𝚖𝚊
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brauliovh3&show_icons=true&title_color=00FF41&text_color=ffffff&icon_color=FF0080&border_color=00FF41&bg_color=0D1117&ring_color=00FF41&include_all_commits=true&locale=es&custom_title=Métricas+de+Rendimiento+del+Sistema" alt="Estadísticas del Sistema"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brauliovh3&layout=compact&title_color=00FF41&text_color=ffffff&border_color=00FF41&bg_color=0D1117&locale=es&custom_title=Análisis+de+Distribución+de+Código"/>
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brauliovh3&show_icons=true&title_color=00FF41&text_color=ffffff&icon_color=FF0080&border_color=00FF41&bg_color=0D1117&include_all_commits=true&count_private=true" alt="Estadísticas"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brauliovh3&layout=compact&title_color=00FF41&text_color=ffffff&border_color=00FF41&bg_color=0D1117" alt="Lenguajes"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ### 📈 **Métricas de Rendimiento**
