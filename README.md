@@ -1,9 +1,7 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ¡Hola! Soy Braulio Velásquez
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ¡Hola! Soy (ㅎㅊDEPOOLㅊㅎ)
 
 <div align="center">
   <img src="https://media1.tenor.com/m/SfUTnsh1gsgAAAAd/gojo-miku.gif" alt="Avatar Digital" width="150" height="150"/>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=🚀+Ingeniero+de+Software;🛡️+Especialista+en+Ciberseguridad;☁️+Arquitecto+Cloud;💻+Full+Stack+Developer" alt="Typing Animation" />
 </div>
 
 <div align="center">
