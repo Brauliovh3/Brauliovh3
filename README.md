@@ -106,17 +106,11 @@
 
 <div align="center">
   
-  <img src="https://streak-stats.demolab.com/?user=Brauliovh3&theme=tokyonight&hide_border=true&fire=00D4FF&ring=00D4FF&currStreakLabel=00D4FF&background=0d1117&stroke=00d4ff&sideLabels=ffffff&dates=ffffff&sideNums=00d4ff&currStreakNum=ffffff" alt="GitHub Streak"/>
   
 </div>
 
 <div align="center">
 
-```
-  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
-  ████████████ GITHUB ACTIVITY GRAPH ████████████
-  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brauliovh3&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true&radius=10" alt="Contribution Graph"/>
 
@@ -128,12 +122,7 @@
 
 <div align="center">
 
-```
-  ╔════════════════════════════════════════════════════════╗
-  ║           🎯 PROYECTOS DE COMBATE ACTIVOS 🎯          ║  
-  ║          「Elite Developer Repositories」            ║
-  ╚════════════════════════════════════════════════════════╝
-```
+
 
 <a href="https://github.com/Brauliovh3/HATSUNE-MIKU">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Brauliovh3&repo=HATSUNE-MIKU&theme=tokyonight&hide_border=true&cache_seconds=3600&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&border_radius=10" alt="HATSUNE-MIKU"/>
@@ -145,7 +134,6 @@
 ### 🎯 ARSENAL DE PROYECTOS:
 ```
 ├── 🤖 HATSUNE-MIKU        → Bot IA con Machine Learning Avanzado
-├── 🔐 Login-app           → Sistema de Autenticación Quantum  
 ├── 🌐 Web Portfolio       → Interface Cyber Responsive
 ├── 🎨 GENERATIVE-3030     → Motor de Arte Generativo con IA
 ├── ⚡ API-FORTRESS         → Backend de Alto Rendimiento
@@ -162,12 +150,6 @@
 
 <div align="center">
 
-```
-  ╔══════════════════════════════════════════════════════════════╗
-  ║                  🏆 ACHIEVEMENT UNLOCKED 🏆                 ║
-  ║                Certificaciones Profesionales                ║  
-  ╚══════════════════════════════════════════════════════════════╝
-```
 
 ![Ethical Hacker](https://img.shields.io/badge/🛡️_CERTIFIED_ETHICAL_HACKER-FF6B35?style=for-the-badge&labelColor=0d1117)
 ![Cloud Architect](https://img.shields.io/badge/☁️_AWS_CLOUD_ARCHITECT-4285F4?style=for-the-badge&labelColor=0d1117)
@@ -184,35 +166,6 @@
 
 <div align="center">
 
-```yaml
-╔══════════════════════════════════════════════════════════════╗
-║                    🎯 EXPERTISE MATRIX 🎯                   ║
-╠══════════════════════════════════════════════════════════════╣
-║ Ciberseguridad:                                              ║
-║   - Penetration Testing & Vulnerability Assessment           ║
-║   - Ethical Hacking & Red Team Operations                    ║
-║   - Security Architecture & Compliance                       ║
-║   - Incident Response & Forensics                            ║
-║                                                              ║
-║ Cloud & DevOps:                                              ║
-║   - AWS/Azure Multi-Cloud Architecture                       ║
-║   - Kubernetes Orchestration & Microservices                 ║
-║   - CI/CD Pipelines & Infrastructure as Code                 ║
-║   - Monitoring, Logging & Performance Optimization           ║
-║                                                              ║
-║ Desarrollo Full Stack:                                       ║
-║   - Frontend: React, Vue, Angular, Next.js                   ║
-║   - Backend: Node.js, Python, Java, Go                       ║
-║   - APIs RESTful & GraphQL                                   ║
-║   - Mobile Development (React Native, Flutter)               ║
-║                                                              ║
-║ Bases de Datos & Analytics:                                  ║
-║   - SQL & NoSQL Database Design                              ║
-║   - Data Engineering & ETL Pipelines                         ║
-║   - Business Intelligence & Analytics                        ║
-║   - Real-time Processing & Streaming                         ║
-╚══════════════════════════════════════════════════════════════╝
-```
 
 </div>
 
@@ -222,12 +175,6 @@
 
 <div align="center">
 
-```
-  ╔════════════════════════════════════════════════════════╗
-  ║              🌐 SECURE COMMUNICATION 🌐               ║
-  ║                Canales Encriptados                    ║
-  ╚════════════════════════════════════════════════════════╝
-```
 
 [![Email](https://img.shields.io/badge/SECURE_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:velasquezhuillcab@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/ENCRYPTED_CHAT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)](https://wa.me/51988514570)
@@ -265,10 +212,6 @@
   ║  🚀 Proyectos Deployed   │ 100+                             ║
   ╚══════════════════════════════════════════════════════════════╝
 ```
-
-**🎯 MODO ACTUAL:** `HACKERMAN ACTIVATED`  
-**⚡ ESTADO:** `DISPONIBLE PARA MISIONES ÉPICAS`  
-**🔥 NEXT LEVEL:** `AI OVERLORD`
 
 </div>
 
