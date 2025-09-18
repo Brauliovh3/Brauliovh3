@@ -8,6 +8,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Brauliovh3&theme=tokyonight&margin-w=10&rank=SECRET,SSS,SS,AAA" alt="Trophies"/>
+</p>
+
 ## ⚡ CYBER ARSENAL — STACK TECNOLÓGICO
 
 <div align="center">
@@ -17,6 +21,7 @@
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
+![Kali Linux](https://img.shields.io/badge/KALI-2E3440?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=000000)
 
 </div>
 
@@ -24,7 +29,7 @@
 
 ## 🔴 CYBER SECURITY ARSENAL
 
-- Kali | Metasploit | Burp Suite | Wireshark | Nmap
+- Kali | Metasploit | Burp Suite | Wireshark | Nmap | John the Ripper | Gobuster
 
 ---
 
@@ -50,32 +55,35 @@
 
 ---
 
-## ✨ ESTILO CYBER — VERSIÓN README
+## ✨ ESTILO CYBER — ELEMENTOS Y ANIMACIONES README-FRIENDLY
 
-> Nota: GitHub README acepta Markdown y cierto HTML. Los estilos CSS completos no se aplican, así que el "estilo" se consigue con imágenes, badges y GIFs.
+- Cabecera animada con *typing SVG* y avatar GIF.
+- Trophies dinámicos y métricas en tiempo real (servicios de imagen externos).
+- Badges y pins con estilo "neón".
 
-### ✅ Qué incluí en este README
-- Cabecera animada (typing SVG) y avatar GIF.  
-- Badges para tecnologías.  
-- Sección de proyectos con pins (imágenes generadas por tu cuenta).  
-- Métricas centradas.  
-- Terminal ASCII + snippet para dar estética técnica.
+### GIFS & BANNERS
 
-### 🖥️ Terminal (snippet)
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="cyber-banner" width="760" style="max-width:100%;border-radius:12px;"/>
+</p>
 
-```bash
-# Inicia tu entorno cyber
-git clone https://github.com/Brauliovh3/REPO
-cd REPO
-./run-kali-style.sh
+### TERMINAL (Efecto visual)
+
+```
+user@matrix:~$ sudo ./deploy-cyber
+[████████▉ ] 92% initializing modules...
+[INFO] loading exploits: metasploit, burpsuite, nmap
+[OK] system: ONLINE
 # 💙 Hatsune Miku
 ```
 
 ---
 
-## 📡 CONTACTO
+## 📡 CONTACTO & REDES
 
-[![Matrix Visitors](https://komarev.com/ghpvc/?username=Brauliovh3&style=for-the-badge&color=00D4FF&label=MATRIX+VISITORS)](https://github.com/Brauliovh3)
+<p align="center">
+  [![Matrix Visitors](https://komarev.com/ghpvc/?username=Brauliovh3&style=for-the-badge&color=00D4FF&label=MATRIX+VISITORS)](https://github.com/Brauliovh3)
+</p>
 
 ---
 
@@ -86,7 +94,3 @@ cd REPO
 </p>
 
 ---
-
-### Instrucciones
-Copia el contenido de este documento y pégalo en el archivo `README.md` de tu perfil (repo con mismo nombre de usuario). Si quieres que lo adapte con colores exactos, otro avatar, o más secciones (Blog, Proyectos, Redes), dime cuáles y lo actualizo.
-
