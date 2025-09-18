@@ -2,17 +2,11 @@
 
 <div align="center">
   
-  ```
-  ╔══════════════════════════════════════════════════════════════╗
-  ║                    🔥 CYBER DEVELOPER 🔥                     ║
-  ║              ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓                 ║
-  ║            「 Sistema de Combate Activado 」                  ║
-  ╚══════════════════════════════════════════════════════════════╝
-  ```
-  
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&background=0D1117&center=true&vCenter=true&width=600&height=60&lines=CYBER+SECURITY+SPECIALIST;CLOUD+ARCHITECT;FULL+STACK+DEVELOPER;AI+%26+MACHINE+LEARNING;PENETRATION+TESTER" alt="Typing SVG" />
+</div>
+  <div align="center">
   <img src="https://media1.tenor.com/m/SfUTnsh1gsgAAAAd/gojo-miku.gif" alt="Avatar Digital" width="150" height="150"/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&background=0D1117&center=true&vCenter=true&width=600&height=60&lines=CYBER+SECURITY+SPECIALIST;CLOUD+ARCHITECT;FULL+STACK+DEVELOPER;AI+%26+MACHINE+LEARNING;PENETRATION+TESTER" alt="Typing SVG" />
 
 </div>
 
