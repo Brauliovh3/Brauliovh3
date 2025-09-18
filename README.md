@@ -4,10 +4,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=800&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=800&height=150&lines=▰▰▰%20ESPECIALISTA%20EN%20CIBERSEGURIDAD%20▰▰▰;◈%20ARQUITECTO%20CLOUD%20×%20PENTESTER%20◈;⟨%20INGENIERO%20IA%20×%20DESARROLLADOR%20FULL%20STACK%20⟩;▣%20ARQUITECTO%20DE%20FORTALEZAS%20DIGITALES%20▣" alt="Cyber Typing"/>
 </div>
-<div style="margin: 20px 0;">
+<div align="center">
 <img src="https://media1.tenor.com/m/SfUTnsh1gsgAAAAd/gojo-miku.gif" alt="Avatar Digital" width="150" height="150" style="border: 3px solid #00FF41; border-radius: 50%; box-shadow: 0 0 30px #00FF41;"/>
 </div>
-<div style="margin: 20px 0;">
+<div  align="center">
 
 [![Estadísticas Matrix](https://github-profile-trophy.vercel.app/?username=Brauliovh3&theme=matrix&no-frame=true&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Followers,Stars)](https://github.com/Brauliovh3)
 
