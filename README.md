@@ -16,12 +16,7 @@
   ![Ubicación](https://img.shields.io/badge/LOCATION-🌐_LIMA_PERU-ff0040?style=for-the-badge&labelColor=0d1117)
   ![Modo](https://img.shields.io/badge/MODE-⚡_HACKERMAN-00d4ff?style=for-the-badge&labelColor=0d1117)
   
-  ```
-  ┌─────────────────────────────────────────────────────────────┐
-  │  [██████████████████████████████████████████████████] 100%  │
-  │              ⚡ SISTEMA COMPLETAMENTE CARGADO ⚡             │
-  └─────────────────────────────────────────────────────────────┘
-  ```
+
   
   [![Perfil](https://komarev.com/ghpvc/?username=Brauliovh3&style=for-the-badge&color=00D4FF&label=MATRIX+VISITORS)](https://github.com/Brauliovh3)
   
@@ -33,14 +28,6 @@
 
 <div align="center">
 
-```
-  ███████╗ ████████╗  █████╗   ██████╗ ██╗  ██╗
-  ██╔════╝ ╚══██╔══╝ ██╔══██╗ ██╔════╝ ██║ ██╔╝
-  ███████╗    ██║    ███████║ ██║      █████╔╝ 
-  ╚════██║    ██║    ██╔══██║ ██║      ██╔═██╗ 
-  ███████║    ██║    ██║  ██║ ╚██████╗ ██║  ██╗
-  ╚══════╝    ╚═╝    ╚═╝  ╚═╝  ╚═════╝ ╚═╝  ╚═╝
-```
 
 </div>
 
@@ -109,12 +96,7 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                      📈 LIVE STATS 📈                       ║
-║              Análisis en Tiempo Real Activado               ║
-╚══════════════════════════════════════════════════════════════╝
-```
+
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Brauliovh3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=3600&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_radius=10"/>
 
