@@ -131,17 +131,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Brauliovh3&repo=Login-app&theme=tokyonight&hide_border=true&cache_seconds=3600&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&border_radius=10" alt="Login-app"/>
 </a>
 
-### 🎯 ARSENAL DE PROYECTOS:
-```
-├── 🤖 HATSUNE-MIKU        → Bot IA con Machine Learning Avanzado
-├── 🌐 Web Portfolio       → Interface Cyber Responsive
-├── 🎨 GENERATIVE-3030     → Motor de Arte Generativo con IA
-├── ⚡ API-FORTRESS         → Backend de Alto Rendimiento
-├── 🛡️ SECURITY-SCANNER    → Herramienta de Pentesting
-├── 🚀 MICROSERVICES-HUB   → Arquitectura de Microservicios
-└── 🔥 CYBER-DASHBOARD     → Panel de Control Futurista
-```
-
 </div>
 
 ---
@@ -178,9 +167,6 @@
 
 [![Email](https://img.shields.io/badge/SECURE_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:velasquezhuillcab@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/ENCRYPTED_CHAT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)](https://wa.me/51988514570)
-[![LinkedIn](https://img.shields.io/badge/PROFESSIONAL_NET-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/tu-perfil)
-[![Discord](https://img.shields.io/badge/GAMING_HUB-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.gg/tu-server)
-
 
 
 </div>
