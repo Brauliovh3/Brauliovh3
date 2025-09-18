@@ -12,17 +12,18 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Brauliovh3&theme=tokyonight&margin-w=10&rank=SECRET,SSS,SS,AAA" alt="Trophies"/>
 </p>
 
+---
+
 ## ⚡ CYBER ARSENAL — STACK TECNOLÓGICO
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
-![Kali Linux](https://img.shields.io/badge/KALI-2E3440?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=000000)
-
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000" height="44" alt="Java"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000" height="44" alt="JS"/>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" height="44" alt="Python"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" height="44" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000" height="44" alt="CSS3"/>
+<img src="https://img.shields.io/badge/KALI-2E3440?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=000000" height="44" alt="Kali"/>
 </div>
 
 ---
@@ -55,31 +56,28 @@
 
 ---
 
-## ✨ ESTILO CYBER — ELEMENTOS Y ANIMACIONES README-FRIENDLY
-
-- Cabecera animada con *typing SVG* y avatar GIF.
-- Trophies dinámicos y métricas en tiempo real (servicios de imagen externos).
-- Badges y pins con estilo "neón".
-
-### GIFS & BANNERS
+## ✨ ESTILO CYBER — ELEMENTOS README-FRIENDLY
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="cyber-banner" width="760" style="max-width:100%;border-radius:12px;"/>
 </p>
 
-### TERMINAL (Efecto visual)
-
-```
-user@matrix:~$ sudo ./deploy-cyber
-[████████▉ ] 92% initializing modules...
-[INFO] loading exploits: metasploit, burpsuite, nmap
-[OK] system: ONLINE
+### Terminal — visual verde (simulación)
+<p align="center">
+<pre style="font-family:monospace;line-height:1.15;background:#071013;border-radius:8px;padding:14px;display:inline-block;color:#9cff88;">
+🟢 user@matrix:~$ sudo ./deploy-cyber
+[██████████] 100% initializing modules...
+[INFO] loading: metasploit, burpsuite, nmap
+[OK] system: <strong>ONLINE</strong>
 # 💙 Hatsune Miku
-```
+</pre>
+</p>
+
+> Nota: GitHub sanitiza muchos estilos HTML/CSS en README. El bloque anterior usa caracteres y emojis para dar una apariencia **verde** y tipo terminal que se ve bien en la mayoría de viewers.
 
 ---
 
-## 📡 CONTACTO & REDES
+## 📡 CONTACTO & VISITANTES
 
 <p align="center">
   [![Matrix Visitors](https://komarev.com/ghpvc/?username=Brauliovh3&style=for-the-badge&color=00D4FF&label=MATRIX+VISITORS)](https://github.com/Brauliovh3)
@@ -93,4 +91,3 @@ user@matrix:~$ sudo ./deploy-cyber
   **🔥 SYSTEM STATUS: ONLINE & READY TO HACK THE WORLD 🔥**
 </p>
 
----
