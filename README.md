@@ -181,14 +181,7 @@
 [![LinkedIn](https://img.shields.io/badge/PROFESSIONAL_NET-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/tu-perfil)
 [![Discord](https://img.shields.io/badge/GAMING_HUB-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.gg/tu-server)
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  🗣️ IDIOMAS DISPONIBLES:                                   │
-│  ├── 🇪🇸 ESPAÑOL (Nativo - Level MAX)                      │  
-│  ├── 🇺🇸 INGLÉS (Avanzado B2-C1)                           │
-│  └── 🤖 CÓDIGO (Fluido en todos los lenguajes)             │
-└─────────────────────────────────────────────────────────────┘
-```
+
 
 </div>
 
@@ -198,20 +191,7 @@
 
 <div align="center">
 
-```
-  ╔══════════════════════════════════════════════════════════════╗
-  ║                    ⚡ DEVELOPER METRICS ⚡                  ║
-  ╠══════════════════════════════════════════════════════════════╣
-  ║  📅 Años Programando     │ 5+ años                          ║
-  ║  ☕ Tazas de Café        │ 9999+                            ║
-  ║  🌙 Sesiones Nocturnas   │ Infinitas                        ║
-  ║  🐛 Bugs Cazados         │ 50,000+                          ║
-  ║  🔥 Commits este año     │ Loading...                       ║
-  ║  🧠 Lenguajes Dominados  │ 10+                              ║
-  ║  🛡️ Sistemas Penetrados  │ Solo con permisos 😄             ║
-  ║  🚀 Proyectos Deployed   │ 100+                             ║
-  ╚══════════════════════════════════════════════════════════════╝
-```
+
 
 </div>
 
@@ -219,14 +199,6 @@
 
 <div align="center">
 
-```
-  ╔══════════════════════════════════════════════════════════════╗
-  ║    "El código no es solo líneas... es arquitectura del      ║
-  ║     futuro. La seguridad no es paranoia... es visión."      ║
-  ║                                                              ║
-  ║           ⚡ CYBER DEVELOPER • SECURITY FIRST ⚡            ║
-  ╚══════════════════════════════════════════════════════════════╝
-```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer&text=MATRIX%20LOADED&fontSize=20&fontColor=00d4ff&animation=twinkling"/>
 
