@@ -1,6 +1,8 @@
-# 👋 ¡Hola! Soy Brauliovh3
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ¡Hola! Soy Braulio Velásquez
 
 <div align="center">
+  <img src="https://media1.tenor.com/m/SfUTnsh1gsgAAAAd/gojo-miku.gif" alt="Avatar Digital" width="150" height="150"/>
+  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=🚀+Ingeniero+de+Software;🛡️+Especialista+en+Ciberseguridad;☁️+Arquitecto+Cloud;💻+Full+Stack+Developer" alt="Typing Animation" />
 </div>
 
@@ -50,27 +52,40 @@
 
 </div>
 
-## 📊 Estadísticas de GitHub
+## 📊 Actividad en GitHub
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brauliovh3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brauliovh3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <!-- Usando una alternativa más confiable -->
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Brauliovh3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=3600"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Brauliovh3&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=3600"/>
   
 </div>
 
 <div align="center">
   
-  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Brauliovh3&theme=tokyonight&hide_border=true)
+  <!-- Usando API alternativa más estable -->
+  <img src="https://streak-stats.demolab.com/?user=Brauliovh3&theme=tokyonight&hide_border=true&fire=00D4FF&ring=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak"/>
   
 </div>
 
-## 🚀 Proyectos Destacados
+## 🚀 Repositorios Destacados
 
 <div align="center">
 
-[![HATSUNE-MIKU](https://github-readme-stats.vercel.app/api/pin/?username=Brauliovh3&repo=HATSUNE-MIKU&theme=tokyonight&hide_border=true)](https://github.com/Brauliovh3/HATSUNE-MIKU)
-[![Login-app](https://github-readme-stats.vercel.app/api/pin/?username=Brauliovh3&repo=Login-app&theme=tokyonight&hide_border=true)](https://github.com/Brauliovh3/Login-app)
+<!-- Tarjetas de repositorio con cache y fallback -->
+<a href="https://github.com/Brauliovh3/HATSUNE-MIKU">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Brauliovh3&repo=HATSUNE-MIKU&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="HATSUNE-MIKU"/>
+</a>
+<a href="https://github.com/Brauliovh3/Login-app">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Brauliovh3&repo=Login-app&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="Login-app"/>
+</a>
+
+### 📂 Otros Proyectos Interesantes:
+- 🤖 **HATSUNE-MIKU**: Bot inteligente con IA avanzada
+- 🔐 **Login-app**: Sistema de autenticación seguro
+- 🌐 **Web Portfolio**: Portafolio personal responsive
+- 🎨 **GENERATIVE-3030**: Arte generativo con IA
 
 </div>
 
