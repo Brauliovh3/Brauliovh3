@@ -130,6 +130,6 @@ Expertise:
   
   **"La seguridad no es un producto, sino un proceso. El código limpio se escribe con pasión."**
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=00D4FF&center=true&vCenter=true&width=500&lines=💻+Construyendo+el+futuro...;🔒+Asegurando+el+presente...;🚀+Innovando+siempre..." alt="Footer Animation" />
+
   
 </div>
