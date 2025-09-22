@@ -13,8 +13,6 @@
 
 </div>
 
-</div>
-
 ## ⚡ ARSENAL CYBER & STACK TECNOLÓGICO
 
 <div align="center">
@@ -252,11 +250,9 @@ root@matriz:~# █
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/brauliovh3)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](https://twitter.com/brauliovh3)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.gg/cybersec)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)](https://t.me/brauliovh3)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:brauliovh3@cyber.matrix)
+
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:velasquezhuillcab@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=Brauliovh3&style=for-the-badge&color=00FF41&label=CONEXIONES+MATRIZ&labelColor=000000"/>
 
@@ -333,7 +329,7 @@ class FuturoTech:
 
 ```java
 System.out.println("¡Gracias por visitar la Matriz! 🚀");
-// Hasta la vista, baby... en binario: 01000001 01100100 01101001 01101111 01110011
+// Hasta la vista, baby... en binario: 01001000 01100001 01110011 01110100 01100001 00100000 01101100 01100001 00100000 01110110 01101001 01110011 01110100 01100001 00100000 01100010 01100101 01101001 01100010 01101001
 ```
 
 <sub>💫 Última actualización: 18 de Septiembre, 2025 | Versión: Matrix 3.0 | Estado: 🟢 Operacional</sub>
