@@ -7,10 +7,8 @@
 <div align="center">
 <img src="https://media1.tenor.com/m/SfUTnsh1gsgAAAAd/gojo-miku.gif" alt="Avatar Digital" width="150" height="150" style="border: 3px solid #00FF41; border-radius: 50%; box-shadow: 0 0 30px #00FF41;"/>
 </div>
-<div align="center">
-
-[![Estadísticas Matrix](https://github-profile-trophy.vercel.app/?username=Brauliovh3&theme=matrix&no-frame=true&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Followers,Stars)](https://github.com/Brauliovh3)
-
+<div align="center"
+[![Estadísticas Matrix](https://github-profile-trophy.vercel.app/?username=Brauliovh3&theme=matrix&no-frame=true&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Followers,Stars)](https://github.com/Brauliovh3)>
 </div>
 
 ## ⚡ ARSENAL CYBER & STACK TECNOLÓGICO
