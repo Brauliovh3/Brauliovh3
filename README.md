@@ -72,7 +72,7 @@
 
 💙 Miku AI
 
-<img src="https://img.shields.io/badge/PERSONAL_AI-00E5FF?style=flat-square&labelColor=050B14"/> <img src="https://img.shields.io/badge/LOCAL_AI-00C8FF?style=flat-square&labelColor=050B14"/> <img src="https://img.shields.io/badge/PYTHON-00E5FF?style=flat-square&labelColor=050B14"/>
+<img src="https://kawaji.co.uk/cdn/shop/articles/Art_by_kiyamachi_CFM_MIKU_1.png?style=flat-square&labelColor=050B14"/> <img src="https://kawaji.co.uk/cdn/shop/articles/Art_by_kiyamachi_CFM_MIKU_1.png?style=flat-square&labelColor=050B14"/> <img src="https://kawaji.co.uk/cdn/shop/articles/Art_by_kiyamachi_CFM_MIKU_1.png?style=flat-square&labelColor=050B14"/>
 
 <br><br>
 
