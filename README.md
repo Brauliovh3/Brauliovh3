@@ -72,7 +72,7 @@
 
 💙 Miku AI
 
-<img src="https://kawaji.co.uk/cdn/shop/articles/Art_by_kiyamachi_CFM_MIKU_1.png?style=flat-square&labelColor=050B14"/> <img src="https://kawaji.co.uk/cdn/shop/articles/Art_by_kiyamachi_CFM_MIKU_1.png?style=flat-square&labelColor=050B14"/> <img src="https://kawaji.co.uk/cdn/shop/articles/Art_by_kiyamachi_CFM_MIKU_1.png?style=flat-square&labelColor=050B14"/>
+<img src="https://kawaji.co.uk/cdn/shop/articles/Art_by_kiyamachi_CFM_MIKU_1.png?style=flat-square&labelColor=050B14"/>
 
 <br><br>
 
