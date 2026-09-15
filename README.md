@@ -1,30 +1,39 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=900&color=39FF14&center=true&vCenter=true&width=650&lines=Desarrollador+de+Software+%26+IA;Apps+Android+%C2%B7+Web+%C2%B7+Cloud;Ciberseguridad+como+complemento" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=900&color=FF2079&center=true&vCenter=true&width=700&lines=%3E+DESARROLLADOR+DE+SOFTWARE+%26+IA;%3E+APPS+ANDROID+%C2%B7+WEB+%C2%B7+CLOUD;%3E+CIBERSEGURIDAD+COMO+COMPLEMENTO;%3E+SYSTEM.STATUS%3A+ONLINE_" alt="Typing SVG"/>
 
 <br>
 
-<img src="https://media1.tenor.com/m/SfUTnsh1gsgAAAAd/gojo-miku.gif" width="130" style="border-radius:50%; border:2px solid #39FF14;"/>
+<img src="https://media1.tenor.com/m/SfUTnsh1gsgAAAAd/gojo-miku.gif" width="140" style="border-radius:50%; border:2px solid #FF2079; box-shadow:0 0 20px #FF2079;"/>
 
-<h3>DEPOOL — Braulio</h3>
+<h2><span style="color:#00FFF2">DEPOOL</span> — Braulio</h2>
 <p><em>Desarrollo de Software · Inteligencia Artificial · Apps Android</em></p>
 
 <a href="mailto:velasquezhuillcab@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FF2079&labelColor=000000" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=Brauliovh3&style=flat-square&color=39FF14&label=Visitas" />
+<a href="https://github.com/Brauliovh3">
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FFF2&labelColor=000000" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=Brauliovh3&style=for-the-badge&color=FF2079&label=CONEXIONES&labelColor=000000"/>
 
 </div>
 
 <br>
 
-## Especialidad
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,100:1A0033&height=2&width=830" />
+
+</div>
+
+## ▸ Especialidad
 
 Me dedico principalmente al **desarrollo de software e inteligencia artificial**, con foco en **aplicaciones Android** (Android Studio / Kotlin) y desarrollo web full stack. La ciberseguridad es un área que domino y aplico como complemento a lo que construyo.
 
 <br>
 
-## Stack Tecnológico
+## ▸ Stack Tecnológico
 
 <div align="center">
 
@@ -38,7 +47,7 @@ Me dedico principalmente al **desarrollo de software e inteligencia artificial**
 
 <br>
 
-## Áreas de Trabajo
+## ▸ Áreas de Trabajo
 
 | Área | Detalle |
 |---|---|
@@ -50,24 +59,52 @@ Me dedico principalmente al **desarrollo de software e inteligencia artificial**
 
 <br>
 
-## Métricas
+## ▸ Métricas del Sistema
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Brauliovh3&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&border_radius=12"/>
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Brauliovh3&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9&border_radius=12&langs_count=8"/>
-
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Brauliovh3&theme=react-dark&bg_color=0D1117&color=39FF14&line=39FF14&point=ffffff&area=true&hide_border=true&hide_title=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Brauliovh3&theme=dark&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14"/>
-
-</div>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Brauliovh3&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0221&title_color=FF2079&icon_color=00FFF2&text_color=E0E0E0&border_radius=12"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brauliovh3&layout=compact&hide_border=true&bg_color=0D0221&title_color=FF2079&text_color=E0E0E0&border_radius=12&langs_count=8"/>
 
 <br>
 
-## Proyectos Destacados
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Brauliovh3&bg_color=0D0221&color=00FFF2&line=FF2079&point=FFFFFF&area=true&hide_border=true&hide_title=true"/>
 
-> Los "pins" con imagen a veces no cargan si el repo es privado, no tiene descripción, o el servicio externo falla. Por eso los dejo como enlaces directos — más simple y siempre funcionan.
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=Brauliovh3&hide_border=true&background=0D0221&stroke=FF2079&ring=00FFF2&fire=FF2079&currStreakLabel=00FFF2&sideLabels=E0E0E0&currStreakNum=FFFFFF&sideNums=E0E0E0&dates=8B949E"/>
+
+</div>
+
+> **Nota:** estos widgets usan las instancias **oficiales** de `github-readme-stats` y `streak-stats.demolab.com` (reemplazo activo del antiguo `herokuapp.com`, que Heroku descontinuó en 2022). No requieren token propio, pero pueden tardar unos segundos en cargar la primera vez o dar un fallo puntual si la instancia pública está saturada — es normal, se recarga solo.
+
+<br>
+
+## ▸ Contribuciones
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/FF2079/Brauliovh3" alt="Gráfico de contribuciones" width="830"/>
+
+</div>
+
+<details>
+<summary><b>⚙️ Quieres la "serpiente" comiéndose tus contribuciones (efecto cyberpunk animado)</b></summary>
+<br>
+
+Ese efecto no se genera con una URL fija — se crea con un **GitHub Action** en un repo tuyo. Pasos rápidos:
+
+1. Crea un repo público llamado exactamente como tu usuario (`Brauliovh3/Brauliovh3`), si no lo tienes ya.
+2. Dentro, en `.github/workflows/snake.yml`, agrega la acción `Platane/snk`.
+3. El action genera un SVG animado que luego incrustas aquí con `<img src="URL_DEL_SVG_GENERADO">`.
+
+Te lo armo completo (workflow + commit) si quieres que lo dejemos funcionando.
+
+</details>
+
+<br>
+
+## ▸ Proyectos Destacados
 
 <div align="center">
 
@@ -82,7 +119,7 @@ Me dedico principalmente al **desarrollo de software e inteligencia artificial**
 
 <br>
 
-## Capacidades Avanzadas
+## ▸ Capacidades Avanzadas
 
 <details>
 <summary><b>📱 Desarrollo Android</b></summary>
@@ -168,7 +205,7 @@ function reconocimiento_cyber() {
 
 <br>
 
-## Misiones Actuales
+## ▸ Misiones Actuales
 
 | Proyecto | Progreso | Tecnología | Estado |
 |---|---|---|---|
@@ -180,6 +217,8 @@ function reconocimiento_cyber() {
 <br>
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0033,100:0D0221&height=2&width=830" />
 
 <sub>Última actualización: septiembre 2026 · Estado: operacional</sub>
 
