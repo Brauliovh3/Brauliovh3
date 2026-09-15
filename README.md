@@ -1,326 +1,235 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,50:007C91,100:00E5FF&height=240&section=header&text=BRAULIO%20VELASQUEZ&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20ARTIFICIAL%20INTELLIGENCE&descAlignY=62&descSize=17&descColor=8BE9FD"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,50:007F9B,100:00E5FF&height=210&section=header&text=DEPOOL&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20×%20ARTIFICIAL%20INTELLIGENCE&descAlignY=62&descSize=16&descColor=8BE9FD"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Software+Engineering+with+AI;Artificial+Intelligence+%7C+Machine+Learning;Computer+Vision+%7C+Automation;Building+intelligent+software+systems;DEPOOL+%7C+BVH3+INDUSTRIES"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=850&height=70&lines=Software+Engineering+with+AI;Machine+Learning+×+Computer+Vision;Building+intelligent+software+systems;BVH3+INDUSTRIES"/>
 
 <br><br>
 
-<a href="https://github.com/Brauliovh3">
-<img src="https://img.shields.io/github/followers/Brauliovh3?style=for-the-badge&logo=github&logoColor=white&color=00E5FF&labelColor=050B14&label=FOLLOWERS"/>
+<img src="https://media1.tenor.com/m/SfUTnsh1gsgAAAAd/gojo-miku.gif"
+  alt="Miku"
+  width="170"
+  height="170"
+  style="border-radius:50%;"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Brauliovh3&style=for-the-badge&color=00E5FF&labelColor=050B14&label=PROFILE+VIEWS"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💙 BRAULIO VELASQUEZ
+
+**Software Engineering with AI · SENATI**
+
+`Artificial Intelligence` · `Machine Learning` · `Computer Vision` · `Software Development`
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,nodejs,react,git,github,linux,docker&perline=6"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤖 AI × SOFTWARE
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-00E5FF?style=for-the-badge&logoColor=white&labelColor=050B14"/>
+<img src="https://img.shields.io/badge/Machine_Learning-00C8FF?style=for-the-badge&logoColor=white&labelColor=050B14"/>
+<img src="https://img.shields.io/badge/Computer_Vision-00E5FF?style=for-the-badge&logoColor=white&labelColor=050B14"/>
+<img src="https://img.shields.io/badge/Automation-00C8FF?style=for-the-badge&logoColor=white&labelColor=050B14"/>
+<img src="https://img.shields.io/badge/Full_Stack-00E5FF?style=for-the-badge&logoColor=white&labelColor=050B14"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&perline=4"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🚀 FEATURED PROJECTS
+
+### 💙 Miku AI
+
+<img src="https://img.shields.io/badge/PERSONAL_AI-00E5FF?style=flat-square&labelColor=050B14"/>
+<img src="https://img.shields.io/badge/LOCAL-00C8FF?style=flat-square&labelColor=050B14"/>
+<img src="https://img.shields.io/badge/PYTHON-00E5FF?style=flat-square&labelColor=050B14"/>
+
+<br><br>
+
+**Personal AI assistant built locally**
+
+<br>
+
+`AI Core` · `Memory` · `Personality` · `Voice` · `Interface`
+
+<br><br>
+
+<a href="https://github.com/Brauliovh3/HATSUNE-MIKU">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Brauliovh3&repo=HATSUNE-MIKU&theme=transparent&hide_border=true&title_color=00E5FF&text_color=C9D1D9&icon_color=00E5FF"/>
 </a>
-<a href="https://github.com/Brauliovh3?tab=repositories">
-<img src="https://img.shields.io/github/stars/Brauliovh3?style=for-the-badge&logo=github&logoColor=white&color=00E5FF&labelColor=050B14&label=STARS"/>
-</a>
-<a href="mailto:velasquezhuillcab@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-00E5FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050B14"/>
-</a>
 
 </div>
 
 ---
 
-# 👋 Hola, soy Braulio
-
-🎓 **Estudiante de Ingeniería de Software con IA en SENATI**, enfocado en crear soluciones de software que integren **inteligencia artificial, automatización y tecnologías modernas**.
-
-Me interesa transformar ideas en sistemas funcionales, desde aplicaciones web y sistemas empresariales hasta proyectos de **Machine Learning, Computer Vision e inteligencia artificial aplicada**.
-
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                         DEPOOL                               │
-│                    BVH3 INDUSTRIES                           │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  🎓 Software Engineering + AI                                │
-│  🤖 Artificial Intelligence                                  │
-│  🧠 Machine Learning                                         │
-│  👁️ Computer Vision                                          │
-│  💻 Software Development                                     │
-│  🌐 Full Stack Development                                   │
-│  ⚙️ Automation                                                │
-│                                                              │
-│  STATUS: BUILDING                                            │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
-
----
-
-# 🧠 Áreas principales
-
 <div align="center">
 
-| 🤖 Artificial Intelligence | 💻 Software Engineering | 👁️ Computer Vision |
-| :------------------------: | :---------------------: | :-----------------: |
-|      Machine Learning      |        Full Stack       |   Image Processing  |
-|        Deep Learning       |         Backend         |   Object Detection  |
-|      Predictive Models     |     Web Applications    | AI-assisted Systems |
+### 👁️ VisionAR
 
-|      ⚙️ Automation     |     📊 Data     |    🛡️ Security    |
-| :--------------------: | :-------------: | :----------------: |
-| Intelligent Automation |  Data Analysis  |  Security Projects |
-|    Python Automation   | Data Processing | Defensive Research |
-|      AI Workflows      |   ML Pipelines  |  Network Analysis  |
+**Artificial Intelligence + Computer Vision + Augmented Reality**
 
-</div>
-
----
-
-# 🛠️ Tecnologías
-
-<div align="center">
-
-### 💻 Languages & Development
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,nodejs,react,git,github"/>
+<img src="https://img.shields.io/badge/AI-00E5FF?style=flat-square&labelColor=050B14"/>
+<img src="https://img.shields.io/badge/COMPUTER_VISION-00C8FF?style=flat-square&labelColor=050B14"/>
+<img src="https://img.shields.io/badge/AR-00E5FF?style=flat-square&labelColor=050B14"/>
 
 <br><br>
 
-### 🤖 AI / Machine Learning
+**Inclusive technology focused on accessibility and intelligent assistance.**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
+</div>
+
+---
+
+<div align="center">
+
+### 🏭 SG-SST · Industria Textil
+
+<img src="https://img.shields.io/badge/SOFTWARE_SYSTEM-00E5FF?style=flat-square&labelColor=050B14"/>
+<img src="https://img.shields.io/badge/BUSINESS-00C8FF?style=flat-square&labelColor=050B14"/>
 
 <br><br>
 
-### ☁️ Infrastructure & Tools
-
-<img src="https://skillicons.dev/icons?i=linux,docker,aws,azure,gcp,kubernetes,bash"/>
+**Sistema para gestión de Seguridad y Salud en el Trabajo.**
 
 </div>
 
 ---
 
-# 🚀 Proyectos destacados
-
-## 💙 Miku AI
-
-**Asistente personal de inteligencia artificial desarrollado localmente.**
-
-Proyecto orientado a construir una IA personal desde cero, integrando diferentes componentes:
-
-```text
-                    ┌────────────────────┐
-                    │       MIKU AI      │
-                    └─────────┬──────────┘
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-          🧠 CORE          💾 MEMORY        🎭 PERSONALITY
-             │                │                │
-             └────────────────┼────────────────┘
-                              │
-                    ┌─────────┴─────────┐
-                    │                   │
-                 🎙️ VOICE             🖥️ UI
-                    │                   │
-                 GPT-SoVITS          Interface
-```
-
-**Tecnologías:** Python · IA local · GPT-SoVITS · procesamiento de lenguaje · síntesis de voz
-
----
-
-## 👁️ VisionAR
-
-**Sistema de realidad aumentada y Computer Vision orientado a accesibilidad.**
-
-Proyecto que combina:
-
-* 👁️ Computer Vision
-* 🧠 Inteligencia Artificial
-* 📱 Realidad aumentada
-* ♿ Accesibilidad
-* ⚙️ Asistencia inteligente
-
-El objetivo es utilizar tecnologías inteligentes para facilitar la interacción de personas con discapacidades motoras.
-
----
-
-## 🏭 SG-SST · Industria Textil
-
-Sistema orientado a la gestión de **Seguridad y Salud en el Trabajo** para una empresa del sector textil.
-
-Integra desarrollo de software para organizar y gestionar información relacionada con procesos internos de la organización.
-
----
-
-## 🏛️ Sistema ML · Municipalidad de Yau
-
-Proyecto de **Machine Learning aplicado a la selección y análisis de documentos**.
-
-```text
-Documentos
-    │
-    ▼
-┌───────────────┐
-│ Procesamiento │
-└───────┬───────┘
-        │
-        ▼
-┌───────────────┐
-│ Machine       │
-│ Learning      │
-└───────┬───────┘
-        │
-        ▼
-   Clasificación
-        │
-        ▼
- Selección de
- documentación
-```
-
----
-
-## 🛡️ Detección de anomalías de red
-
-Proyecto experimental de Machine Learning utilizando **Isolation Forest** para detectar comportamientos anómalos en datos de red.
-
-La ciberseguridad aquí forma parte de la aplicación de IA, no del enfoque principal de mi perfil.
-
----
-
-## 🛒 E-commerce + Machine Learning
-
-Proyecto de comercio electrónico desarrollado con enfoque tecnológico y análisis mediante Machine Learning.
-
-Incluye una interfaz web interactiva y componentes orientados al análisis de datos.
-
----
-
-## 🌦️ Predicción meteorológica
-
-Proyecto de predicción utilizando **redes neuronales LSTM** para analizar datos meteorológicos.
-
-```text
-Datos históricos
-       │
-       ▼
-Preprocesamiento
-       │
-       ▼
-    LSTM Model
-       │
-       ▼
- Predicción futura
-```
-
----
-
-## 🔵 Arduino · Automatización
-
-Proyectos con microcontroladores y sensores, incluyendo:
-
-* HC-05
-* Servomotor
-* Sensor ultrasónico
-* Sistemas de señalización
-* Automatización de procesos
-
----
-
-# 📊 GitHub Analytics
-
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Brauliovh3&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9"/>
+### 🏛️ Machine Learning · Municipalidad de Yau
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brauliovh3&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=00E5FF&text_color=C9D1D9"/>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-00E5FF?style=flat-square&labelColor=050B14"/>
+<img src="https://img.shields.io/badge/DOCUMENT_ANALYSIS-00C8FF?style=flat-square&labelColor=050B14"/>
 
 <br><br>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Brauliovh3&bg_color=00000000&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true"/>
+**Selección y análisis inteligente de documentación mediante ML.**
 
 </div>
 
 ---
 
-# 📈 GitHub Contributions
-
 <div align="center">
 
-<img src="https://ghchart.rshah.org/00D9FF/Brauliovh3" alt="GitHub Contributions" width="90%"/>
+### 🧠 AI / ML LAB
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&perline=4"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Isolation_Forest-Anomaly_Detection-00E5FF?style=for-the-badge&labelColor=050B14"/>
+<img src="https://img.shields.io/badge/LSTM-Weather_Prediction-00C8FF?style=for-the-badge&labelColor=050B14"/>
+<img src="https://img.shields.io/badge/E--Commerce-ML-00E5FF?style=for-the-badge&labelColor=050B14"/>
 
 </div>
 
 ---
 
-# 🧩 Lo que estoy construyendo
+<div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    CURRENT FOCUS                             ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  🤖 Artificial Intelligence              ████████████████    ║
-║  💙 Miku AI                              ███████████████     ║
-║  👁️ Computer Vision                     ██████████████      ║
-║  💻 Software Engineering                ████████████████    ║
-║  ⚙️ Automation                          ███████████████     ║
-║  ☁️ Cloud & Infrastructure               ███████████         ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+# 📊 GITHUB
 
----
+<br>
 
-# 🔬 Actualmente explorando
+<img height="175"
+src="https://github-readme-stats.vercel.app/api?username=Brauliovh3&show_icons=true&include_all_commits=true&hide_border=true&bg_color=050B14&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&border_radius=12"/>
 
-### 🤖 Inteligencia Artificial
+  
 
-* Modelos locales
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Sistemas inteligentes
-* IA aplicada a problemas reales
+<img height="175"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brauliovh3&layout=compact&langs_count=8&hide_border=true&bg_color=050B14&title_color=00E5FF&text_color=C9D1D9&border_radius=12"/>
 
-### 💻 Ingeniería de Software
+<br><br>
 
-* Arquitecturas de aplicaciones
-* Desarrollo Full Stack
-* Automatización
-* APIs
-* Sistemas empresariales
-* Integración de IA en aplicaciones
+<img width="90%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Brauliovh3&bg_color=050B14&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true"/>
 
-### 🎙️ IA multimodal
-
-* Síntesis de voz
-* Procesamiento de lenguaje
-* Interfaces inteligentes
-* Asistentes personales
+</div>
 
 ---
-
-# 🧪 Filosofía de desarrollo
-
-```python
-class BraulioVelasquez:
-
-    focus = [
-        "Software Engineering",
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Computer Vision",
-        "Automation"
-    ]
-
-    def build(self, idea):
-        return "Turn ideas into working systems."
-
-    def learn(self):
-        return "Build → Test → Improve → Repeat"
-```
-
----
-
-# 🌐 Conecta conmigo
 
 <div align="center">
+
+# 💻 TECHNOLOGY STACK
+
+<br>
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css&perline=6"/>
+
+<br><br>
+
+### AI / Data
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=3"/>
+
+<br><br>
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,react,git,github&perline=4"/>
+
+<br><br>
+
+### Infrastructure
+
+<img src="https://skillicons.dev/icons?i=linux,docker,aws,azure&perline=4"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🔬 CURRENTLY BUILDING
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&height=45&lines=Building+Miku+AI;Exploring+Local+AI;Developing+Intelligent+Systems;Learning+%26+Building+Every+Day"/>
+
+<br><br>
+
+`Miku AI`  •  `Artificial Intelligence`  •  `Computer Vision`  •  `Software`
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌐 CONNECT
+
+<br>
 
 <a href="https://github.com/Brauliovh3">
 <img src="https://img.shields.io/badge/GitHub-Brauliovh3-FFFFFF?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=050B14"/>
@@ -332,16 +241,14 @@ class BraulioVelasquez:
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,50:007C91,100:00E5FF&height=170&section=footer&text=BVH3%20INDUSTRIES&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=68&desc=SOFTWARE%20%E2%80%A2%20AI%20%E2%80%A2%20INNOVATION&descAlignY=88&descSize=13&descColor=8BE9FD"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,50:007F9B,100:00E5FF&height=160&section=footer&text=BVH3%20INDUSTRIES&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=70&desc=SOFTWARE%20×%20AI%20×%20INNOVATION&descAlignY=89&descSize=13&descColor=8BE9FD"/>
 
-<br>
+### 💙 `BUILD • LEARN • CREATE`
 
-### `💙 Building intelligent software for the future.`
-
-**DEPOOL · Software Engineering with AI**
+**DEPOOL · Braulio Velasquez**
 
 </div>
