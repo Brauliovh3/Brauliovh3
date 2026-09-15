@@ -66,48 +66,50 @@
 
 <div align="center">
 
-# 🚀 FEATURED PROJECTS
-
-### 💙 Miku AI
-
-<img src="https://img.shields.io/badge/PERSONAL_AI-00E5FF?style=flat-square&labelColor=050B14"/>
-<img src="https://img.shields.io/badge/LOCAL-00C8FF?style=flat-square&labelColor=050B14"/>
-<img src="https://img.shields.io/badge/PYTHON-00E5FF?style=flat-square&labelColor=050B14"/>
-
-<br><br>
-
-**Personal AI assistant built locally**
+🚀 FEATURED PROJECTS
 
 <br>
 
-`AI Core` · `Memory` · `Personality` · `Voice` · `Interface`
+💙 Miku AI
+
+<img src="https://img.shields.io/badge/PERSONAL_AI-00E5FF?style=flat-square&labelColor=050B14"/> <img src="https://img.shields.io/badge/LOCAL_AI-00C8FF?style=flat-square&labelColor=050B14"/> <img src="https://img.shields.io/badge/PYTHON-00E5FF?style=flat-square&labelColor=050B14"/>
 
 <br><br>
 
 <a href="https://github.com/Brauliovh3/HATSUNE-MIKU">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Brauliovh3&repo=HATSUNE-MIKU&theme=transparent&hide_border=true&title_color=00E5FF&text_color=C9D1D9&icon_color=00E5FF"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Brauliovh3&repo=HATSUNE-MIKU&theme=transparent&hide_border=true&title_color=00E5FF&text_color=C9D1D9&icon_color=00E5FF&bg_color=050B14&border_radius=12" width="80%" alt="HATSUNE MIKU"/>
+
 </a>
 
-</div>
+<br><br>
 
+<sub>
+
+Personal AI assistant · Memory · Personality · Voice · Interface
+
+</sub>
+
+</div>
 ---
 
 <div align="center">
 
-### 👁️ VisionAR
+👁️ VisionAR
 
-**Artificial Intelligence + Computer Vision + Augmented Reality**
+<br>
 
-<img src="https://img.shields.io/badge/AI-00E5FF?style=flat-square&labelColor=050B14"/>
-<img src="https://img.shields.io/badge/COMPUTER_VISION-00C8FF?style=flat-square&labelColor=050B14"/>
-<img src="https://img.shields.io/badge/AR-00E5FF?style=flat-square&labelColor=050B14"/>
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-00E5FF?style=flat-square&labelColor=050B14"/> <img src="https://img.shields.io/badge/COMPUTER_VISION-00C8FF?style=flat-square&labelColor=050B14"/> <img src="https://img.shields.io/badge/AUGMENTED_REALITY-00E5FF?style=flat-square&labelColor=050B14"/>
 
 <br><br>
 
-**Inclusive technology focused on accessibility and intelligent assistance.**
+AI + Computer Vision + Augmented Reality
+
+<br>
+
+<sub>Inclusive technology focused on accessibility and intelligent assistance.</sub>
 
 </div>
-
 ---
 
 <div align="center">
