@@ -78,7 +78,6 @@
 
 <a href="https://github.com/Brauliovh3/HATSUNE-MIKU">
 
-<img src="https://kawaji.co.uk/cdn/shop/articles/Art_by_kiyamachi_CFM_MIKU_1.png&repo=HATSUNE-MIKU&theme=transparent&hide_border=true&title_color=00E5FF&text_color=C9D1D9&icon_color=00E5FF&bg_color=050B14&border_radius=12" width="80%" alt="HATSUNE MIKU"/>
 
 </a>
 
