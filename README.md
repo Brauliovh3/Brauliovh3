@@ -1,128 +1,252 @@
-# DEPOOL README 2.0
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,50:07566D,100:00D9F5&height=220&section=header&text=DEPOOL&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20ARTIFICIAL%20INTELLIGENCE&descAlignY=61&descSize=16&descColor=B7F7FF"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1100&color=00D9F5&center=true&vCenter=true&width=800&height=55&lines=Building+intelligent+software+systems;AI+%7C+Machine+Learning+%7C+Computer+Vision;Creating+the+future+with+BVH3+INDUSTRIES"/>
+<img src="https://file.garden/ae-9DPf0ekWVe7ex/Ciudad%20Ne%C3%B3n_%20Miku%20y%20DEPOOL.png" width="100%" alt="DEPOOL | BVH3 INDUSTRIES | Cyberpunk"/>
 
 <br>
 
-<img src="https://media1.tenor.com/m/SfUTnsh1gsgAAAAd/gojo-miku.gif" width="145" alt="Miku"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&height=55&lines=%3E+INITIALIZING+DEPOOL+SYSTEM...;%3E+SOFTWARE+ENGINEERING+%2F%2F+AI;%3E+MACHINE+LEARNING+%2F%2F+COMPUTER+VISION;%3E+BVH3+INDUSTRIES+%2F%2F+ONLINE"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F5FF?style=flat-square&labelColor=080C16"/>
+<img src="https://img.shields.io/badge/LOCATION-PERU-FCEE0A?style=flat-square&labelColor=080C16"/>
+<img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL_INTELLIGENCE-00F5FF?style=flat-square&labelColor=080C16"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Brauliovh3&style=flat-square&color=00BBD4&label=PROFILE+VIEWS"/>
-
-</div>
-
-## 👨‍💻 About Me
-
-**Braulio Velasquez** | Software Engineering with AI · SENATI
-
-I build software applications, intelligent systems, automation tools and AI-powered solutions.
-
-- 🔭 Working on **Miku AI**, a personal AI assistant.
-- 🧠 Exploring local AI, machine learning and computer vision.
-- 🏭 Developing projects under **BVH3 INDUSTRIES**.
-- 💙 Passionate about building practical technology.
-
----
-
-## 🛠️ Technology Stack
-
-<div align="center">
-
-**Languages & Web**
-
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,java,javascript,typescript,html,css&perline=8"/>
-
-**AI & Machine Learning**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&perline=4"/>
-
-**Development & Tools**
-
-<img src="https://skillicons.dev/icons?i=nodejs,react,dotnet,qt,git,github,linux,docker&perline=8"/>
+<img src="https://komarev.com/ghpvc/?username=Brauliovh3&style=flat-square&color=00D9E8&label=PROFILE+VISITS"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## `01 // IDENTITY`
 
-### 💙 Miku AI | Personal AI Assistant
+```yaml
+identity:
+  name: Braulio Velasquez
+  alias: DEPOOL
+  organization: BVH3 INDUSTRIES
+  education: Software Engineering with AI
+  institution: SENATI
+  location: Peru
 
-Personal assistant project focused on local intelligence, memory, personality, voice and an interactive desktop avatar.
+specialization:
+  - Artificial Intelligence
+  - Machine Learning
+  - Computer Vision
+  - Software Engineering
+  - Desktop & Web Applications
+  - Intelligent Automation
 
-`Python` · `Local AI` · `Voice` · `Desktop Assistant`
-
-### 👁️ VisionAR | Intelligent Vision
-
-Computer vision and augmented reality project focused on accessibility and intelligent assistance.
-
-`Computer Vision` · `Artificial Intelligence` · `Augmented Reality`
-
-### 🏭 SG-SST | Occupational Safety
-
-Software system for occupational health and safety management in the textile industry.
-
-`Software Engineering` · `Management Systems`
-
-### 🏛️ Intelligent Document Analysis
-
-Machine learning project for document selection and analysis in a municipal context.
-
-`Machine Learning` · `Document Analysis`
-
-### 🧠 AI / ML Laboratory
-
-Experiments and projects involving anomaly detection, weather forecasting and intelligent applications.
-
-`Isolation Forest` · `LSTM` · `Python`
-
----
-
-## 📊 GitHub Analytics
+mission: "Building intelligent software for real-world problems."
+```
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Brauliovh3&show_icons=true&hide_border=true&bg_color=050B14&title_color=00D9F5&icon_color=00D9F5&text_color=C9D1D9"/>
+### `ENGINEERING THE NEXT GENERATION`
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brauliovh3&layout=compact&langs_count=8&hide_border=true&bg_color=050B14&title_color=00D9F5&text_color=C9D1D9"/>
+I develop intelligent applications, AI-powered systems,
+automation tools and software solutions.
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Brauliovh3&bg_color=050B14&color=00D9F5&line=00D9F5&point=FFFFFF&area=true&hide_border=true"/>
+**From experimental prototypes to functional applications.**
 
 </div>
 
 ---
 
-## 🔬 Currently Building
+## `02 // TECH ARSENAL`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=00D9F5&center=true&vCenter=true&width=750&height=50&lines=Miku+AI+%7C+Local+Intelligence;Computer+Vision+%7C+Software+Development;BVH3+INDUSTRIES+%7C+Building+New+Ideas"/>
+### `PROGRAMMING LANGUAGES`
+
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,java,javascript,typescript,html,css&theme=dark&perline=8"/>
+
+<br>
+
+### `ARTIFICIAL INTELLIGENCE`
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark&perline=4"/>
+
+<br>
+
+### `SOFTWARE DEVELOPMENT`
+
+<img src="https://skillicons.dev/icons?i=nodejs,react,dotnet,qt,git,github&theme=dark&perline=6"/>
+
+<br>
+
+### `INFRASTRUCTURE & TOOLS`
+
+<img src="https://skillicons.dev/icons?i=windows,linux,docker,vscode,visualstudio,cmake&theme=dark&perline=6"/>
 
 </div>
 
 ---
 
-## 🌐 Connect
+## `03 // PROJECT DATABASE`
 
 <div align="center">
 
-<a href="https://github.com/Brauliovh3"><img src="https://img.shields.io/badge/GitHub-Brauliovh3-FFFFFF?style=for-the-badge&logo=github&logoColor=00D9F5&labelColor=050B14"/></a>
-<a href="https://www.bvh3-industries.com/"><img src="https://img.shields.io/badge/BVH3-Website-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=00D9F5&labelColor=050B14"/></a>
-<a href="mailto:velasquezhuillcab@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-FFFFFF?style=for-the-badge&logo=gmail&logoColor=00D9F5&labelColor=050B14"/></a>
+### `PROJECT_001 // MIKU AI`
+
+**PERSONAL ARTIFICIAL INTELLIGENCE ASSISTANT**
+
+<img src="https://img.shields.io/badge/AI-LOCAL_INTELLIGENCE-00F5FF?style=flat-square&labelColor=080C16"/>
+<img src="https://img.shields.io/badge/VOICE-INTERACTION-FCEE0A?style=flat-square&labelColor=080C16"/>
+<img src="https://img.shields.io/badge/SYSTEM-IN_DEVELOPMENT-FF3366?style=flat-square&labelColor=080C16"/>
+
+<br><br>
+
+An evolving personal AI assistant designed to combine
+local intelligence, memory, personality, voice interaction
+and an interactive desktop avatar.
+
+**CORE MODULES**
+
+`LOCAL AI` · `MEMORY` · `VOICE` · `PERSONALITY` · `DESKTOP AVATAR`
+
+<br>
+
+<a href="https://github.com/Brauliovh3?tab=repositories&q=miku">
+<img src="https://img.shields.io/badge/EXPLORE_MIKU_PROJECTS-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=080C16"/>
+</a>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,50:07566D,100:00D9F5&height=130&section=footer"/>
+---
+
+### `PROJECT_002 // VISIONAR`
+
+**INTELLIGENT COMPUTER VISION SYSTEM**
+
+A technology project combining artificial intelligence,
+computer vision and augmented reality to explore
+accessible and intelligent assistance.
+
+**TECHNOLOGY**
+
+`PYTHON` · `COMPUTER VISION` · `AI` · `AUGMENTED REALITY`
+
+[ACCESS REPOSITORY](https://github.com/Brauliovh3/VisionAR)
+
+---
+
+### `PROJECT_003 // SG-SST`
+
+**OCCUPATIONAL HEALTH & SAFETY MANAGEMENT**
+
+Software solution focused on occupational health
+and safety management for the textile industry.
+
+**TECHNOLOGY**
+
+`SOFTWARE ENGINEERING` · `MANAGEMENT SYSTEMS` · `DATABASES`
+
+[EXPLORE REPOSITORIES](https://github.com/Brauliovh3?tab=repositories&q=SG-SST)
+
+---
+
+### `PROJECT_004 // INTELLIGENT DOCUMENT ANALYSIS`
+
+**MACHINE LEARNING FOR DOCUMENT PROCESSING**
+
+Machine learning application for intelligent
+document selection and analysis in a municipal context.
+
+**TECHNOLOGY**
+
+`PYTHON` · `MACHINE LEARNING` · `DOCUMENT ANALYSIS`
+
+---
+
+### `PROJECT_005 // AI RESEARCH LAB`
+
+**EXPERIMENTAL INTELLIGENT SYSTEMS**
+
+| Experiment | Technology | Domain |
+|:---|:---|:---|
+| Anomaly Detection | Isolation Forest | Network Security |
+| Weather Prediction | LSTM | Time Series |
+| Intelligent E-Commerce | Machine Learning | Data Analysis |
+| Industrial Vision | OpenCV | Computer Vision |
+
+---
+
+## `04 // NETWORK ACTIVITY`
 
 <div align="center">
 
-**BVH3 INDUSTRIES · DEPOOL**
+<img src="https://github-readme-stats.vercel.app/api?username=Brauliovh3&show_icons=true&hide_border=true&bg_color=080C16&title_color=00F5FF&icon_color=FCEE0A&text_color=D7E3EA&rank_icon=github" height="170" alt="GitHub Statistics"/>
 
-`BUILD • LEARN • CREATE`
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brauliovh3&layout=compact&langs_count=8&hide_border=true&bg_color=080C16&title_color=00F5FF&text_color=D7E3EA" height="170" alt="Top Languages"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Brauliovh3&bg_color=080C16&color=00F5FF&line=00D9E8&point=FCEE0A&area=true&area_color=06465A&hide_border=true" width="98%" alt="Contribution Activity"/>
+
+</div>
+
+---
+
+## `05 // ACTIVE DEVELOPMENT`
+
+```text
+DEPOOL@BVH3:~$ system --projects
+
+[01] MIKU AI
+     Personal AI Assistant
+     STATUS: IN DEVELOPMENT
+
+[02] COMPUTER VISION
+     Intelligent Vision Systems
+     STATUS: RESEARCH & DEVELOPMENT
+
+[03] SOFTWARE ENGINEERING
+     Desktop / Web Applications
+     STATUS: ACTIVE
+
+[04] BVH3 INDUSTRIES
+     Software & AI Projects
+     STATUS: BUILDING
+
+> BUILDING THE FUTURE, ONE SYSTEM AT A TIME.
+```
+
+---
+
+## `06 // UPLINK`
+
+<div align="center">
+
+**ESTABLISH CONNECTION**
+
+<br>
+
+<a href="https://www.bvh3-industries.com/">
+<img src="https://img.shields.io/badge/BVH3_INDUSTRIES-OFFICIAL_WEBSITE-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=080C16"/>
+</a>
+
+<a href="https://github.com/Brauliovh3">
+<img src="https://img.shields.io/badge/GITHUB-DEPOOL-FCEE0A?style=for-the-badge&logo=github&logoColor=white&labelColor=080C16"/>
+</a>
+
+<a href="mailto:velasquezhuillcab@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-FF3366?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080C16"/>
+</a>
+
+<br><br>
+
+**BVH3 INDUSTRIES**
+
+`SOFTWARE ENGINEERING × ARTIFICIAL INTELLIGENCE`
+
+<sub>DEPOOL // BUILD • LEARN • CREATE</sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080C16,50:06465A,100:00D9E8&height=4&section=footer" width="100%"/>
 
 </div>
