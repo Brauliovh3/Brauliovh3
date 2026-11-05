@@ -1,255 +1,128 @@
+# DEPOOL README 2.0
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,50:007F9B,100:00E5FF&height=210&section=header&text=DEPOOL&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20×%20ARTIFICIAL%20INTELLIGENCE&descAlignY=62&descSize=16&descColor=8BE9FD"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,50:07566D,100:00D9F5&height=220&section=header&text=DEPOOL&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20ARTIFICIAL%20INTELLIGENCE&descAlignY=61&descSize=16&descColor=B7F7FF"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1100&color=00D9F5&center=true&vCenter=true&width=800&height=55&lines=Building+intelligent+software+systems;AI+%7C+Machine+Learning+%7C+Computer+Vision;Creating+the+future+with+BVH3+INDUSTRIES"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=850&height=70&lines=Software+Engineering+with+AI;Machine+Learning+×+Computer+Vision;Building+intelligent+software+systems;BVH3+INDUSTRIES"/>
+<img src="https://media1.tenor.com/m/SfUTnsh1gsgAAAAd/gojo-miku.gif" width="145" alt="Miku"/>
 
 <br><br>
 
-<img src="https://media1.tenor.com/m/SfUTnsh1gsgAAAAd/gojo-miku.gif"
-  alt="Miku"
-  width="170"
-  height="170"
-  style="border-radius:50%;"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Brauliovh3&style=for-the-badge&color=00E5FF&labelColor=050B14&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Brauliovh3&style=flat-square&color=00BBD4&label=PROFILE+VIEWS"/>
 
 </div>
+
+## 👨‍💻 About Me
+
+**Braulio Velasquez** | Software Engineering with AI · SENATI
+
+I build software applications, intelligent systems, automation tools and AI-powered solutions.
+
+- 🔭 Working on **Miku AI**, a personal AI assistant.
+- 🧠 Exploring local AI, machine learning and computer vision.
+- 🏭 Developing projects under **BVH3 INDUSTRIES**.
+- 💙 Passionate about building practical technology.
 
 ---
 
-<div align="center">
-
-## 💙 BRAULIO VELASQUEZ
-
-**Software Engineering with AI · SENATI**
-
-`Artificial Intelligence` · `Machine Learning` · `Computer Vision` · `Software Development`
-
-</div>
-
-<br>
+## 🛠️ Technology Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,nodejs,react,git,github,linux,docker&perline=6"/>
+**Languages & Web**
 
-</div>
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,java,javascript,typescript,html,css&perline=8"/>
 
----
-
-<div align="center">
-
-## 🤖 AI × SOFTWARE
-
-<img src="https://img.shields.io/badge/Artificial_Intelligence-00E5FF?style=for-the-badge&logoColor=white&labelColor=050B14"/>
-<img src="https://img.shields.io/badge/Machine_Learning-00C8FF?style=for-the-badge&logoColor=white&labelColor=050B14"/>
-<img src="https://img.shields.io/badge/Computer_Vision-00E5FF?style=for-the-badge&logoColor=white&labelColor=050B14"/>
-<img src="https://img.shields.io/badge/Automation-00C8FF?style=for-the-badge&logoColor=white&labelColor=050B14"/>
-<img src="https://img.shields.io/badge/Full_Stack-00E5FF?style=for-the-badge&logoColor=white&labelColor=050B14"/>
-
-</div>
-
-<br>
-
-<div align="center">
+**AI & Machine Learning**
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&perline=4"/>
 
-</div>
+**Development & Tools**
 
----
-
-<div align="center">
-
-🚀 FEATURED PROJECTS
-
-<br>
-
-💙 Miku AI
-
-<img src="https://kawaji.co.uk/cdn/shop/articles/Art_by_kiyamachi_CFM_MIKU_1.png?style=flat-square&labelColor=050B14"/>
-
-<br><br>
-
-<a href="https://github.com/Brauliovh3/HATSUNE-MIKU">
-
-
-</a>
-
-<br><br>
-
-<sub>
-
-Personal AI assistant · Memory · Personality · Voice · Interface
-
-</sub>
-
-</div>
----
-
-<div align="center">
-
-👁️ VisionAR
-
-<br>
-
-<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-00E5FF?style=flat-square&labelColor=050B14"/> <img src="https://img.shields.io/badge/COMPUTER_VISION-00C8FF?style=flat-square&labelColor=050B14"/> <img src="https://img.shields.io/badge/AUGMENTED_REALITY-00E5FF?style=flat-square&labelColor=050B14"/>
-
-<br><br>
-
-AI + Computer Vision + Augmented Reality
-
-<br>
-
-<sub>Inclusive technology focused on accessibility and intelligent assistance.</sub>
-
-</div>
----
-
-<div align="center">
-
-### 🏭 SG-SST · Industria Textil
-
-<img src="https://img.shields.io/badge/SOFTWARE_SYSTEM-00E5FF?style=flat-square&labelColor=050B14"/>
-<img src="https://img.shields.io/badge/BUSINESS-00C8FF?style=flat-square&labelColor=050B14"/>
-
-<br><br>
-
-**Sistema para gestión de Seguridad y Salud en el Trabajo.**
+<img src="https://skillicons.dev/icons?i=nodejs,react,dotnet,qt,git,github,linux,docker&perline=8"/>
 
 </div>
 
 ---
 
+## 🚀 Featured Projects
+
+### 💙 Miku AI | Personal AI Assistant
+
+Personal assistant project focused on local intelligence, memory, personality, voice and an interactive desktop avatar.
+
+`Python` · `Local AI` · `Voice` · `Desktop Assistant`
+
+### 👁️ VisionAR | Intelligent Vision
+
+Computer vision and augmented reality project focused on accessibility and intelligent assistance.
+
+`Computer Vision` · `Artificial Intelligence` · `Augmented Reality`
+
+### 🏭 SG-SST | Occupational Safety
+
+Software system for occupational health and safety management in the textile industry.
+
+`Software Engineering` · `Management Systems`
+
+### 🏛️ Intelligent Document Analysis
+
+Machine learning project for document selection and analysis in a municipal context.
+
+`Machine Learning` · `Document Analysis`
+
+### 🧠 AI / ML Laboratory
+
+Experiments and projects involving anomaly detection, weather forecasting and intelligent applications.
+
+`Isolation Forest` · `LSTM` · `Python`
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
 
-### 🏛️ Machine Learning · Municipalidad de Yau
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Brauliovh3&show_icons=true&hide_border=true&bg_color=050B14&title_color=00D9F5&icon_color=00D9F5&text_color=C9D1D9"/>
 
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-00E5FF?style=flat-square&labelColor=050B14"/>
-<img src="https://img.shields.io/badge/DOCUMENT_ANALYSIS-00C8FF?style=flat-square&labelColor=050B14"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brauliovh3&layout=compact&langs_count=8&hide_border=true&bg_color=050B14&title_color=00D9F5&text_color=C9D1D9"/>
 
-<br><br>
-
-**Selección y análisis inteligente de documentación mediante ML.**
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Brauliovh3&bg_color=050B14&color=00D9F5&line=00D9F5&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
+## 🔬 Currently Building
+
 <div align="center">
 
-### 🧠 AI / ML LAB
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&perline=4"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Isolation_Forest-Anomaly_Detection-00E5FF?style=for-the-badge&labelColor=050B14"/>
-<img src="https://img.shields.io/badge/LSTM-Weather_Prediction-00C8FF?style=for-the-badge&labelColor=050B14"/>
-<img src="https://img.shields.io/badge/E--Commerce-ML-00E5FF?style=for-the-badge&labelColor=050B14"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=00D9F5&center=true&vCenter=true&width=750&height=50&lines=Miku+AI+%7C+Local+Intelligence;Computer+Vision+%7C+Software+Development;BVH3+INDUSTRIES+%7C+Building+New+Ideas"/>
 
 </div>
 
 ---
 
+## 🌐 Connect
+
 <div align="center">
 
-# 📊 GITHUB
-
-<br>
-
-<img height="175"
-src="https://github-readme-stats.vercel.app/api?username=Brauliovh3&show_icons=true&include_all_commits=true&hide_border=true&bg_color=050B14&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&border_radius=12"/>
-
-  
-
-<img height="175"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brauliovh3&layout=compact&langs_count=8&hide_border=true&bg_color=050B14&title_color=00E5FF&text_color=C9D1D9&border_radius=12"/>
-
-<br><br>
-
-<img width="90%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=Brauliovh3&bg_color=050B14&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true"/>
+<a href="https://github.com/Brauliovh3"><img src="https://img.shields.io/badge/GitHub-Brauliovh3-FFFFFF?style=for-the-badge&logo=github&logoColor=00D9F5&labelColor=050B14"/></a>
+<a href="https://www.bvh3-industries.com/"><img src="https://img.shields.io/badge/BVH3-Website-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=00D9F5&labelColor=050B14"/></a>
+<a href="mailto:velasquezhuillcab@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-FFFFFF?style=for-the-badge&logo=gmail&logoColor=00D9F5&labelColor=050B14"/></a>
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,50:07566D,100:00D9F5&height=130&section=footer"/>
 
 <div align="center">
 
-# 💻 TECHNOLOGY STACK
+**BVH3 INDUSTRIES · DEPOOL**
 
-<br>
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css&perline=6"/>
-
-<br><br>
-
-### AI / Data
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=3"/>
-
-<br><br>
-
-### Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,react,git,github&perline=4"/>
-
-<br><br>
-
-### Infrastructure
-
-<img src="https://skillicons.dev/icons?i=linux,docker,aws,azure&perline=4"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🔬 CURRENTLY BUILDING
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&height=45&lines=Building+Miku+AI;Exploring+Local+AI;Developing+Intelligent+Systems;Learning+%26+Building+Every+Day"/>
-
-<br><br>
-
-`Miku AI`  •  `Artificial Intelligence`  •  `Computer Vision`  •  `Software`
-
-</div>
-
----
-
-<div align="center">
-
-# 🌐 CONNECT
-
-<br>
-
-<a href="https://github.com/Brauliovh3">
-<img src="https://img.shields.io/badge/GitHub-Brauliovh3-FFFFFF?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=050B14"/>
-</a>
-
-<a href="mailto:velasquezhuillcab@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-FFFFFF?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=050B14"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,50:007F9B,100:00E5FF&height=160&section=footer&text=BVH3%20INDUSTRIES&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=70&desc=SOFTWARE%20×%20AI%20×%20INNOVATION&descAlignY=89&descSize=13&descColor=8BE9FD"/>
-
-### 💙 `BUILD • LEARN • CREATE`
-
-**DEPOOL · Braulio Velasquez**
+`BUILD • LEARN • CREATE`
 
 </div>
