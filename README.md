@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00F0FF,50:FCEE0A,100:FF3158&section=header&text=DEPOOL&fontSize=90&fontColor=080B12&fontAlignY=38&animation=twinkling&desc=BVH3%20INDUSTRIES%20%2F%2F%20INGENIER%C3%8DA%20DE%20SOFTWARE%20%C3%97%20IA&descSize=20&descAlignY=60&descAlign=50" width="100%" alt="DEPOOL // BVH3 INDUSTRIES" />
@@ -23,41 +22,43 @@
 
 ## `01 // IDENTIDAD DEL SISTEMA`
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<div align="center">
 
-### `> USUARIO: DEPOOL`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=1100&color=00F0FF&background=00000000&center=true&vCenter=true&width=860&height=60&lines=%3E+USUARIO%3A+DEPOOL;%3E+BRAULIO+VELASQUEZ+HUILLCA;%3E+ESTUDIANTE+DE+ING.+DE+SOFTWARE+CON+IA;%3E+SENATI+%2F%2F+PER%C3%9A" alt="Usuario: DEPOOL" />
 
-**Braulio Velasquez Huillca**
-Estudiante de **Ingeniería de Software con Inteligencia Artificial en SENATI**.
+<br />
 
-Desarrollo aplicaciones, sistemas inteligentes y herramientas que conectan la ingeniería de software con problemas reales. Me interesan especialmente la **IA local**, la **visión artificial**, la automatización y las aplicaciones de escritorio.
+**Braulio Velasquez Huillca** · Estudiante de **Ingeniería de Software con Inteligencia Artificial en SENATI**
 
-- 🟦 **Identidad de proyectos:** BVH3 INDUSTRIES
-- ⚡ **Enfoque:** software funcional, inteligencia artificial e innovación
-- 🧠 **Investigación:** asistentes personales y aprendizaje automático
-- 🌐 **Sitio web:** [bvh3-industries.com](https://www.bvh3-industries.com/)
+Desarrollo aplicaciones, sistemas inteligentes y herramientas que conectan la ingeniería de software con problemas reales.<br />
+Me interesan especialmente la **IA local**, la **visión artificial**, la automatización y las aplicaciones de escritorio.
 
-</td>
-<td width="40%" valign="top">
+<br />
 
-```text
-╔══════════════════════════╗
-║  DEPOOL // SISTEMA 04    ║
-╠══════════════════════════╣
-║  PERFIL    : DESARROLLO  ║
-║  ÁREA      : SOFTWARE    ║
-║  NÚCLEO    : IA          ║
-║  REGIÓN    : PERÚ        ║
-║  PROYECTOS : ACTIVOS     ║
-║  ESTADO    : ONLINE ●    ║
-╚══════════════════════════╝
-```
+### `◈ NÚCLEOS DE INTERÉS`
 
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=1000&color=0:0B1226,100:05070D&stroke=00F0FF&strokeWidth=8&text=IA%20LOCAL&fontSize=110&fontColor=00F0FF&fontAlignY=42&desc=N%C3%9ACLEO&descSize=62&descAlignY=58&animation=fadeIn" width="23%" alt="IA LOCAL" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=1000&color=0:0B1226,100:05070D&stroke=FCEE0A&strokeWidth=8&text=VISI%C3%93N&fontSize=110&fontColor=FCEE0A&fontAlignY=42&desc=ARTIFICIAL&descSize=62&descAlignY=58&animation=fadeIn" width="23%" alt="VISIÓN" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=1000&color=0:0B1226,100:05070D&stroke=FF3158&strokeWidth=8&text=AUTOMATIZACI%C3%93N&fontSize=62&fontColor=FF3158&fontAlignY=42&desc=PROCESOS&descSize=62&descAlignY=58&animation=fadeIn" width="23%" alt="AUTOMATIZACIÓN" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=1000&color=0:0B1226,100:05070D&stroke=39FF14&strokeWidth=8&text=ESCRITORIO&fontSize=88&fontColor=39FF14&fontAlignY=42&desc=APLICACIONES&descSize=62&descAlignY=58&animation=fadeIn" width="23%" alt="ESCRITORIO" />
+
+<br />
+
+### `◈ ESTADO DEL SISTEMA`
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=0:0B1226,100:05070D&stroke=39FF14&strokeWidth=8&text=%E2%97%8F%20SISTEMA%20ONLINE&fontSize=95&fontColor=39FF14&fontAlignY=40&desc=BVH3%20INDUSTRIES%20%2F%2F%20DEPOOL&descSize=55&descAlignY=68&animation=blink" width="55%" alt="Sistema online" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=900&color=39FF14&background=080B12&center=true&vCenter=true&width=420&height=56&lines=PERFIL++++%3A%3A+DESARROLLO;%C3%81REA++++++%3A%3A+SOFTWARE;N%C3%9ACLEO++++%3A%3A+IA;REGI%C3%93N++++%3A%3A+PER%C3%9A;PROYECTOS+%3A%3A+ACTIVOS;ESTADO++++%3A%3A+ONLINE+%E2%97%8F" alt="Estado del sistema" />
+
+<br />
+
+<img src="https://img.shields.io/badge/IDENTIDAD-BVH3_INDUSTRIES-00F0FF?style=for-the-badge&labelColor=080B12" alt="Identidad" />
+<img src="https://img.shields.io/badge/ENFOQUE-SOFTWARE_FUNCIONAL_%7C_IA_%7C_INNOVACI%C3%93N-FCEE0A?style=for-the-badge&labelColor=080B12" alt="Enfoque" />
+<img src="https://img.shields.io/badge/INVESTIGACI%C3%93N-ASISTENTES_PERSONALES_%7C_ML-FF3158?style=for-the-badge&labelColor=080B12" alt="Investigación" />
+
+<a href="https://www.bvh3-industries.com/"><img src="https://img.shields.io/badge/SITIO_WEB-BVH3--INDUSTRIES.COM-39FF14?style=for-the-badge&labelColor=080B12" alt="Sitio web" /></a>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F0FF,50:FCEE0A,100:FF3158" width="100%" alt="" />
 
@@ -111,56 +112,56 @@ Desarrollo aplicaciones, sistemas inteligentes y herramientas que conectan la in
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### `01 ▸ MIKU AI`
+<img src="https://capsule-render.vercel.app/api?type=soft&height=1000&color=0:0B1226,100:05070D&stroke=00F0FF&strokeWidth=8&text=MIKU%20AI&fontSize=110&fontColor=00F0FF&fontAlignY=42&desc=ASISTENTE%20PERSONAL&descSize=55&descAlignY=58&animation=fadeIn" width="100%" alt="MIKU AI" />
 
-**ASISTENTE PERSONAL INTELIGENTE**
+`01` **ASISTENTE PERSONAL INTELIGENTE**
 
-Asistente con IA local y nube opcional, memoria, personalidad, voz y avatar interactivo para escritorio.
+IA local con nube opcional, memoria, personalidad, voz y avatar interactivo para escritorio.
 
-**Módulos:** `IA LOCAL` · `VOZ` · `MEMORIA` · `AVATAR`
+`IA LOCAL` · `VOZ` · `MEMORIA` · `AVATAR`
 
 [🔗 Explorar proyectos de Miku](https://github.com/Brauliovh3?tab=repositories&q=Miku)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### `02 ▸ VISIONAR`
+<img src="https://capsule-render.vercel.app/api?type=soft&height=1000&color=0:0B1226,100:05070D&stroke=FCEE0A&strokeWidth=8&text=VISIONAR&fontSize=110&fontColor=FCEE0A&fontAlignY=42&desc=VISI%C3%93N%20ARTIFICIAL%20Y%20AR&descSize=55&descAlignY=58&animation=fadeIn" width="100%" alt="VISIONAR" />
 
-**VISIÓN ARTIFICIAL Y REALIDAD AUMENTADA**
+`02` **VISIÓN ARTIFICIAL Y REALIDAD AUMENTADA**
 
-Proyecto que combina visión por computadora, IA y tecnologías de asistencia.
+Combina visión por computadora, IA y tecnologías de asistencia.
 
-**Tecnologías:** `PYTHON` · `VISIÓN ARTIFICIAL` · `IA`
+`PYTHON` · `VISIÓN ARTIFICIAL` · `IA`
 
 [🔗 Ver repositorio](https://github.com/Brauliovh3/VisionAR)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### `03 ▸ SG-SST`
+<img src="https://capsule-render.vercel.app/api?type=soft&height=1000&color=0:0B1226,100:05070D&stroke=FF3158&strokeWidth=8&text=SG-SST&fontSize=110&fontColor=FF3158&fontAlignY=42&desc=SEGURIDAD%20Y%20SALUD%20LABORAL&descSize=55&descAlignY=58&animation=fadeIn" width="100%" alt="SG-SST" />
 
-**SEGURIDAD Y SALUD EN EL TRABAJO**
+`03` **SEGURIDAD Y SALUD EN EL TRABAJO**
 
-Sistema de gestión de seguridad y salud ocupacional aplicado a la industria textil.
+Sistema de gestión de seguridad y salud ocupacional para la industria textil.
 
-**Áreas:** `SOFTWARE` · `GESTIÓN` · `BASES DE DATOS`
+`SOFTWARE` · `GESTIÓN` · `BASES DE DATOS`
 
 [🔗 Buscar proyecto](https://github.com/Brauliovh3?tab=repositories&q=SG-SST)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### `04 ▸ ANÁLISIS DOCUMENTAL`
+<img src="https://capsule-render.vercel.app/api?type=soft&height=1000&color=0:0B1226,100:05070D&stroke=39FF14&strokeWidth=8&text=DOCUMENTAL&fontSize=110&fontColor=39FF14&fontAlignY=42&desc=MACHINE%20LEARNING&descSize=55&descAlignY=58&animation=fadeIn" width="100%" alt="DOCUMENTAL" />
 
-**MACHINE LEARNING APLICADO**
+`04` **ANÁLISIS DOCUMENTAL**
 
 Selección y análisis inteligente de documentación en un contexto municipal.
 
-**Áreas:** `MACHINE LEARNING` · `DOCUMENTOS` · `DATOS`
+`MACHINE LEARNING` · `DOCUMENTOS` · `DATOS`
 
 [🔗 Explorar repositorios](https://github.com/Brauliovh3?tab=repositories)
 
@@ -170,12 +171,38 @@ Selección y análisis inteligente de documentación en un contexto municipal.
 
 ### `◈ LABORATORIO DE IA / ML`
 
-| 🧪 Experimento | ⚙️ Tecnología | 🎯 Aplicación |
-|:--|:--|:--|
-| Detección de anomalías | `Isolation Forest` | Análisis de tráfico y seguridad de redes |
-| Predicción meteorológica | `LSTM` | Series temporales |
-| Comercio electrónico inteligente | `Python` · `ML` | Análisis de datos |
-| Visión industrial | `OpenCV` | Detección y monitoreo visual |
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=1000&color=0:0B1226,100:05070D&stroke=00F0FF&strokeWidth=8&text=ANOMAL%C3%8DAS&fontSize=90&fontColor=00F0FF&fontAlignY=42&desc=ISOLATION%20FOREST&descSize=62&descAlignY=58&animation=fadeIn" width="100%" alt="ANOMALÍAS" />
+
+🎯 Tráfico y seguridad de redes
+
+</td>
+<td width="25%" align="center" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=1000&color=0:0B1226,100:05070D&stroke=FCEE0A&strokeWidth=8&text=CLIMA&fontSize=90&fontColor=FCEE0A&fontAlignY=42&desc=LSTM&descSize=62&descAlignY=58&animation=fadeIn" width="100%" alt="CLIMA" />
+
+🎯 Series temporales
+
+</td>
+<td width="25%" align="center" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=1000&color=0:0B1226,100:05070D&stroke=FF3158&strokeWidth=8&text=E-COMMERCE&fontSize=90&fontColor=FF3158&fontAlignY=42&desc=PYTHON%20%C2%B7%20ML&descSize=62&descAlignY=58&animation=fadeIn" width="100%" alt="E-COMMERCE" />
+
+🎯 Análisis de datos
+
+</td>
+<td width="25%" align="center" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=1000&color=0:0B1226,100:05070D&stroke=39FF14&strokeWidth=8&text=VISI%C3%93N%20INDUSTRIAL&fontSize=68&fontColor=39FF14&fontAlignY=42&desc=OPENCV&descSize=62&descAlignY=58&animation=fadeIn" width="100%" alt="VISIÓN INDUSTRIAL" />
+
+🎯 Detección y monitoreo visual
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F0FF,50:FCEE0A,100:FF3158" width="100%" alt="" />
 
